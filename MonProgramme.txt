@@ -1,0 +1,29 @@
+#Lundi à jeudi
+
+    08h00-17h00 : Cours universitaires et révisions (inclure des révisions pendant les pauses entre les cours).
+    17h00-19h00 : Temps libre / Pause / Préparation du dîner.
+    19h00-21h30 : Apprentissage des nouvelles technologies
+        Lundi : Laravel (2 heures)
+        Mardi : JavaScript côté navigateur (2 heures)
+        Jeudi : Docker (2 heures)
+
+## Mercredi
+    Matinée (09h00-12h00) : Repos / Temps libre / Activités personnelles
+    13h00-14h30 : Étude et pratique de React (1 heure 30 minutes)
+    14h30-16h00 : Pratique avancée ou exercices spécifiques sur React (1 heure 30 minutes)
+    19h00-22h30 : Révision approfondie de la semaine
+
+
+## Vendredi
+
+    08h00-17h00 : Cours universitaires et révisions (inclure des révisions pendant les pauses entre les cours).
+    17h00-19h00 : Temps libre / Pause / Préparation du dîner.
+    19h00-22h30 : Révision approfondie de la semaine
+        Révision des cours universitaires et des nouvelles technologies étudiées pendant la semaine.
+
+## Samedi et Dimanche
+
+    Matinée (09h00-12h00) : Révisions des cours universitaires
+    Après-midi (13h00-16h00) : Sessions d'apprentissage approfondi des nouvelles technologies
+        Samedi : Choisissez une technologie pour approfondir (3 heures)
+        Dimanche : Choisissez une autre technologie pour approfondir (3 heures)
